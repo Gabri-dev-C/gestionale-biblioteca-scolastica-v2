@@ -26,18 +26,24 @@ Programma per la gestione della biblioteca scolastica in C++ con interfaccia tes
 - Input/Output: validazione multilivello e gestione sicura del buffer.
 - Persistenza: file di binari per il salvataggio dei dati.
 
-## Struttura del progetto
+## Struttura del Progetto
 
+```
 GestionaleBiblioteca/
 ├── main.cpp                 
 ├── config.h                
-├── utility.[h/cpp]         # Funzioni di supporto e validazione
-├── libri.[h/cpp]           # Modulo gestione libri
-├── utenti.[h/cpp]          # Modulo gestione utenti  
-├── prestiti.[h/cpp]        # Modulo gestione prestiti
+├── utility.h               # Funzioni di supporto e validazione
+├── utility.cpp             
+├── libri.h                 # Modulo gestione libri
+├── libri.cpp               
+├── utenti.h                # Modulo gestione utenti  
+├── utenti.cpp              
+├── prestiti.h              # Modulo gestione prestiti
+├── prestiti.cpp            
 └── mie_librerie/
-    └── gh_string.[h/cpp]   # Libreria stringhe personalizzata
-
+    ├── gh_string.h         # Libreria stringhe personalizzata
+    └── gh_string.cpp
+```
 ## Installazione e Compilazione
 1. **Requisiti**: Compilatore C++ (CodeBlocks, GCC, Visual Studio)
 2. **Compilazione**:
