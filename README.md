@@ -33,7 +33,7 @@ GestionaleBiblioteca/
 └── mie_librerie/
     └── gh_string.[h/cpp]   # Libreria stringhe personalizzata
 
-## 🔧 Installazione e Compilazione
+## Installazione e Compilazione
 1. **Requisiti**: Compilatore C++ (CodeBlocks, GCC, Visual Studio)
 2. **Compilazione**:
    - Apri il progetto in CodeBlocks.
