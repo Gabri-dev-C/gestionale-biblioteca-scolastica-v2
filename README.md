@@ -82,7 +82,7 @@ GestionaleBiblioteca/
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica-v2/blob/main/images/Cattura.PNG)
 
 ## Versioni
 
