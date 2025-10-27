@@ -80,6 +80,10 @@ GestionaleBiblioteca/
 	- Recovery da stati inconsistenti.
 	- Messaggi utente chiari e specifici.
 
+## Screenshot
+
+![Screenshot]()
+
 ## Versioni
 
 - **[v2.0]https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica-v2)** - Versione corrente (migliorata)
