@@ -1,4 +1,9 @@
 [README.md](https://github.com/user-attachments/files/23161445/README.md)
+
+![C++](https://img.shields.io/badge/C++-17-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-2.0-orange)
+
 # Gestionale biblioteca scolastica v.2.0
 
 Programma per la gestione della biblioteca scolastica in C++ con interfaccia testuale.
