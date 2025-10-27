@@ -3,6 +3,7 @@
 ![C++](https://img.shields.io/badge/C++-17-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-2.0-orange)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 # Gestionale biblioteca scolastica v.2.0
 
