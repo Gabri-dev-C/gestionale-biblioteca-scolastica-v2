@@ -46,7 +46,8 @@ GestionaleBiblioteca/
 ## Installazione e Compilazione
 1. **Requisiti**: Compilatore C++ (CodeBlocks, GCC, Visual Studio)
 2. **Compilazione**:
-   - Apri il progetto in CodeBlocks.
+   - Apri un nuovo progetto in CodeBlocks.
+   - Aggiungi tutti i file nel progetto.
    - Build → Compila.
 3. **Esecuzione**: Run nell'IDE o eseguibile generato
 
@@ -91,7 +92,7 @@ GestionaleBiblioteca/
 
 ## Versioni
 
-- **[v2.0]https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica-v2)** - Versione corrente (migliorata)
+- **[v2.0]https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica-v2** - Versione corrente (migliorata)
 - **[v1.0]https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica** - Versione precedente
 
 ## Autore e licenza
